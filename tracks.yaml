@@ -21,7 +21,7 @@ tracks:
     release_inc: '1'
     release_repo_url: null
     release_tag: :{version}
-    ros_distro: jazzy
+    ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/stereolabs/zed-ros2-description.git
     version: :{auto}
