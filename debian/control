@@ -1,0 +1,12 @@
+Source: ros-rolling-zed-description
+Section: misc
+Priority: optional
+Maintainer: STEREOLABS <support@stereolabs.com>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake, ros-rolling-ament-cmake-auto, ros-rolling-ament-cmake-copyright <!nocheck>, ros-rolling-ament-cmake-cppcheck <!nocheck>, ros-rolling-ament-cmake-lint-cmake <!nocheck>, ros-rolling-ament-cmake-pep257 <!nocheck>, ros-rolling-ament-cmake-uncrustify <!nocheck>, ros-rolling-ament-cmake-xmllint <!nocheck>, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ros-workspace, ros-rolling-rosidl-typesupport-fastrtps-c, ros-rolling-rosidl-typesupport-fastrtps-cpp
+Homepage: https://www.stereolabs.com/
+Standards-Version: 3.9.2
+
+Package: ros-rolling-zed-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-rviz2, ros-rolling-xacro, ros-rolling-ros-workspace
+Description: Contains URDF and meshes to create models of Stereolabs ZED Cameras.
