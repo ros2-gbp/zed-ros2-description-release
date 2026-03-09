@@ -2,6 +2,11 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2026-03-09)
+------------------
+* Rename optical frame links for consistency in URDF and RViz configuration
+* Contributors: Walter Lucetti
+
 0.1.2 (2026-02-05)
 ------------------
 * Merge pull request `#1 <https://github.com/stereolabs/zed-ros2-description/issues/1>`_ from pucciland95/main
