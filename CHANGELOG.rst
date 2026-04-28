@@ -2,6 +2,12 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.4 (2026-04-28)
+------------------
+* Add ZED X One S model and description
+* Add ZED X Nano model and description
+* Contributors: Walter Lucetti
+
 0.1.3 (2026-03-09)
 ------------------
 * Rename optical frame links for consistency in URDF and RViz configuration
