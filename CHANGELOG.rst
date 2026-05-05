@@ -2,6 +2,18 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2026-05-05)
+------------------
+* Fix material issue
+  Apply againg PR https://github.com/stereolabs/zed-ros2-wrapper/pull/405 to fix the issue https://github.com/stereolabs/zed-ros2-description/issues/2
+* Contributors: Walter Lucetti
+
+0.1.4 (2026-04-28)
+------------------
+* Add ZED X One S model and description
+* Add ZED X Nano model and description
+* Contributors: Walter Lucetti
+
 0.1.3 (2026-03-09)
 ------------------
 * Rename optical frame links for consistency in URDF and RViz configuration
